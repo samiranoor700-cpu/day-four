@@ -1,0 +1,47 @@
+.container{
+    color: blue;
+    padding: 30px;
+    border: 5px red solid;
+    margin-bottom: 8px;
+}
+#boxOne{
+    color: brown;
+    background-color: aquamarine;
+    border-radius: 200px;
+    width: 200px;
+    padding-left: 120px;
+    margin-left: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+    padding-right: 70px;
+}
+#boxTwo{
+    background-color: blueviolet;
+    color: aliceblue;
+    width: 150px;
+    padding-left: 90px;
+    padding-right: 80px;
+    margin-left: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 200px;
+    
+}
+#boxThree{
+
+    color: white;
+    background-color: blue;
+    text-align: center;
+    margin-left: 560px;
+    margin-right: 500px;
+    margin-top: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    border-radius: 300px;
+    margin-bottom: 3px;
+    padding-left: 20px;
+    font-size: larger;
+}
